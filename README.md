@@ -4,8 +4,8 @@ Paper title: 'Environmental Policy in the Presence of an Informal Sector'
 
 The model is a static genral equilibrium, with a formal and an informal services
 sector. The model builds the baseline calibrated for the USA. Then the equilibrium
-is shocked with a tageted reduction in emissions (i.e. reduction in energy output)
-achieved via a tax on energy. The script solves for the tax achieving that.
+is shocked with a targeted reduction in emissions (i.e. reduction in energy output)
+achieved via a tax on energy. The script solves for the tax achieving that goal.
 
 At the same time, government income is held fixed, so that the increased revenue 
 from the energy tax is compensated by a reduction of the labour income tax that 
